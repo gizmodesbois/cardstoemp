@@ -16,7 +16,7 @@ We are going to send him a "Stoemp" composed of pretty much anything the web of 
 
 ```
 npm install
-npx eleventy --serve
+npm run dev
 ```
 
 ## How to contribute
