@@ -6,6 +6,8 @@
 
 As you may, or not know tomorrow, the 22 march 2019 will be the birthday of our friend, colleague, teacher @jeromecoupe
 
+![](https://www.webstoemp.com/img/me-1024.jpg)
+
 To celebrate this special occasion, we, fellow members of the web development community propose to make him a very special gift.
 
 We are going to send him a WebCard composed of pretty much anything the web of today can do.
