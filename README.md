@@ -4,7 +4,7 @@
 
 ![](https://media.giphy.com/media/vnMiqMnXBBbGw/giphy.gif)
 
-As you may, or not know, tomorrow 22/03/19 will be the birthday of our friend, colleague, teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
+As you may, or may not know, tomorrow 22/03/19 will be the birthday of our friend, colleague and teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
 
 ![](https://www.webstoemp.com/img/me-1024.jpg)
 
