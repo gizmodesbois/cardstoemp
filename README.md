@@ -10,7 +10,7 @@ As you may, or not know tomorrow, the 22 march 2019 will be the birthday of our 
 
 As members of the web development community, we propose to make him a very special gift to celebrate this special occasion.
 
-We are going to send him a "Stoemp" composed of pretty much anything the web of today can do. We are a bit late to the party so please share this with anyone who might be interested in participating. We plan on sending a netlify link to him at the 22/03/2019 at 7pm
+We are going to send him a "Stoemp" composed of pretty much anything the web of today can do. We are a bit late to the party so please share this with anyone who might be interested in participating. We plan on sending a netlify link to him the 22/03/2019 at 7pm
 
 ## How to use it
 
