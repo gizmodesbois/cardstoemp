@@ -26,7 +26,7 @@ navtitle: Alban
 <section class="alban">
 <h1>Bon anniversaire @jeromecoupe</h1>
 
-![](http://webikon.com/files/styles/media_thumbnail/public/drupal_party_0.gif?itok=qaxwt-Bg)
+![](https://webikon.com/files/styles/media_thumbnail/public/drupal_party_0.gif?itok=qaxwt-Bg)
 
 <p style="text-align: right"><em>@albandf</em></p>
 </section>
