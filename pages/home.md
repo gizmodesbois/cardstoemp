@@ -8,11 +8,11 @@ navtitle: Home
 
 # WIP Cardstoemp
 
-## Hi There, fellow geek 
+## Hi There, fellow friend of [@jeromecoupe](https://twitter.com/jeromecoupe)
 
 ![](https://media.giphy.com/media/vnMiqMnXBBbGw/giphy.gif)
 
-As you may, or not know tomorrow, the 22 march 2019 will be the birthday of our friend, colleague, teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
+As you may, or not know, tomorrow 22/03/19 will be the birthday of our friend, colleague, teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
 
 ![](https://www.webstoemp.com/img/me-1024.jpg)
 
