@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
-    "dev" : "npx eleventy --serve",
+    "dev": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
@@ -18,7 +18,10 @@
     "url": "https://github.com/gizmodesbois/cardstoemp/issues"
   },
   "homepage": "https://github.com/gizmodesbois/cardstoemp#readme",
+
   "devDependencies": {
-    "@11ty/eleventy": "^0.7.1"
+    "prettier": "^1.16.4",
+    "@11ty/eleventy": "^0.7.1",
+    "gulp": "^4.0.0"
   }
 }
