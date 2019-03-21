@@ -12,7 +12,7 @@ navtitle: Home
 
 ![](https://media.giphy.com/media/vnMiqMnXBBbGw/giphy.gif)
 
-As you may, or not know, tomorrow 22/03/19 will be the birthday of our friend, colleague, teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
+As you may, or may not know, tomorrow 22/03/19 will be the birthday of our friend, colleague and teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
 
 ![](https://www.webstoemp.com/img/me-1024.jpg)
 
@@ -43,7 +43,7 @@ Create a new branch and submit a PR to the project.
 
 Please scope your css to your own `<section>` to avoid side effects, each section will be displayed within a `100vw, 100vh` container.
 
-##TODO
+## TODO
 
 [] Send the page to as many people as possible
 [] Make a template to display all contributions on one page
