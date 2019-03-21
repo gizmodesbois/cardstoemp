@@ -1,14 +1,10 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
     <head>
-    <meta name="robots" content="noindex, nofollow">
+		<meta name="robots" content="noindex, nofollow">
+		<title>{{title}}</title>
     </head>
 	<body>
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-		</header>
 		<main>
 			{{ layoutContent | safe }}
 		</main>
