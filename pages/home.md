@@ -41,7 +41,7 @@ Create a new branch and submit a PR to the project.
 
 ## Constraints
 
-Please scope your added css to your own `<section>` to avoid side effects, each section will be displayed within a `100vw, 100vh` container.
+Please scope your css to your own `<section>` to avoid side effects, each section will be displayed within a `100vw, 100vh` container.
 
 ##TODO
 
