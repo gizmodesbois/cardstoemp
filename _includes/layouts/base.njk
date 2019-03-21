@@ -1,5 +1,8 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+    <head>
+        <meta name="robots" content="noindex, nofollow">
+    </head>
 	<body>
 		<header>
 			<em>
@@ -7,8 +10,11 @@
 			</em>
 		</header>
 		<main>
-			{{ layoutContent | safe }}
+			<ul>
+            {%- for post in collections.post -%}
+              <li>{{ post.data.title }}</li>
+            {%- endfor -%}
+            </ul>
 		</main>
 	</body>
-
 </html>
