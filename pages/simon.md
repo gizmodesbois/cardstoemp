@@ -8,9 +8,9 @@ navtitle: Simon
 
 <section id="simon">
   <div id="confetti"></div>
-  <svg viewBox="0 0 1300 300">
+  <svg viewBox="0 0 1500 120">
     <symbol id="s-text">
-      <text text-anchor="middle" x="50%" y="50%" dy=".35em">🎉 Happy Birthday Jérôme 🎉</text>
+      <text text-anchor="middle" x="50%" y="50%" dy=".35em">🍾🎉 Happy Birthday Jérôme 🎉🍾</text>
     </symbol>
     <use class="text" xlink:href="#s-text"></use>
     <use class="text" xlink:href="#s-text"></use>
@@ -18,6 +18,9 @@ navtitle: Simon
     <use class="text" xlink:href="#s-text"></use>
     <use class="text" xlink:href="#s-text"></use>
   </svg>
+  <p class="twitter">
+    <a href="https://twitter.com/henrottesimon" target="_blank" rel="noffolow">Simon 🤓</a>
+  </p>
 </section>
 
 
@@ -38,6 +41,21 @@ body {
   display: grid;
   align-items: center;
   justify-items: center;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+.twitter {
+  font-size: 24px;
+  align-self: end;
+  justify-self: end;
+  padding: 10px;
+  margin: 0;
+}
+.twitter a {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  z-index: 20;
 }
 .text {
   fill: none;
@@ -99,9 +117,8 @@ body {
 }
 
 svg {
-  position: absolute;
   width: 100vw;
-  height: 100vh;
+  align-self: center;
 }
 
 </style>
