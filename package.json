@@ -1,0 +1,23 @@
+{
+  "name": "cardstoemp",
+  "version": "1.0.0",
+  "description": "Card stoemp",
+  "scripts": {
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizmodesbois/cardstoemp.git"
+  },
+  "author": "A lot of friends",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gizmodesbois/cardstoemp/issues"
+  },
+  "homepage": "https://github.com/gizmodesbois/cardstoemp#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}
