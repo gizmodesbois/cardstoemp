@@ -6,6 +6,10 @@ permalink: /alban.html
 navtitle: Alban
 ---
 <style type="text/css">
+  .alban {
+    background:yellow;
+  }
+
   .alban h1{
     animation:blinkingText 0.8s infinite;
     font-family: "Comic Sans MS", cursive, sans-serif;
@@ -23,4 +27,6 @@ navtitle: Alban
 <h1>Bon anniversaire @jeromecoupe</h1>
 
 ![](http://webikon.com/files/styles/media_thumbnail/public/drupal_party_0.gif?itok=qaxwt-Bg)
+
+<p style="text-align: right"><em>@albandf</em></p>
 </section>
