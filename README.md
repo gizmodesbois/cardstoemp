@@ -1,3 +1,5 @@
+![](https://www.webstoemp.com/img/me-1024.jpg)
+
 # WIP Cardstoemp
 
 ## Hi There, fellow friend of [@jeromecoupe](https://twitter.com/jeromecoupe)
@@ -6,10 +8,7 @@
 
 As you may, or may not know, tomorrow 22/03/19 will be the birthday of our friend, colleague and teacher [@jeromecoupe](https://twitter.com/jeromecoupe)
 
-![](https://www.webstoemp.com/img/me-1024.jpg)
-
-
-Lets face it, sending birthday cards is so 2018. But still, we want to find a way to congratulate Jérome for the great person he is. 
+But lets face it, sending birthday cards is so 2018. But still, we want to find a way to congratulate Jérome for the great person he is. 
 That's why we ([Simon](https://twitter.com/henrottesimon) and [Julien](https://twitter.com/thylo)) thought about sending him a "Stoemp" of pages created by his friend. It can contain pretty much any thing you want, it doesn't have to be the nicest webpage you've ever made, it just have to be a part of you.
 
 We are saddly a bit late to the party so please share this with anyone who might be interested in participating. We plan on sending a netlify link to him the 22/03/2019 at 7pm
