@@ -12,7 +12,20 @@ As members of the web development community, we propose to make him a very speci
 
 We are going to send him a "Stoemp" composed of pretty much anything the web of today can do.
 
-## How to participate : 
+## How to use it
+
+```
+npm install
+npx eleventy
+```
+
+## How to contribute
+
+Create a new page inside the `/pages` directory. You can take the `home.md` as reference. You can also create your own layouts inside the `_includes/layouts` directory. Don't forget to add the right informations for the page (link, meta, ...)
+
+## How to submit
+
+Create a new branch and submit a PR to the project.
 
 ## Constraints
 
