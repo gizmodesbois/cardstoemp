@@ -3,6 +3,7 @@ layout: layouts/base.njk
 title: Simon
 date: 2019-03-21T00:00:00.000Z
 permalink: /simon.html
+tags: "page"
 navtitle: Simon
 ---
 

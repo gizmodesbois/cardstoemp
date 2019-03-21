@@ -3,6 +3,7 @@ layout: layouts/base.njk
 title: Pvl
 date: 2019-03-21T00:00:00.000Z
 permalink: /pvl.html
+tags: "page"
 navtitle: Pvl
 ---
 <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">

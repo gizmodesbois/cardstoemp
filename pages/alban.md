@@ -3,6 +3,7 @@ layout: layouts/base.njk
 title: Alban
 date: 2019-03-21T00:00:00.000Z
 permalink: /alban.html
+tags: "page"
 navtitle: Alban
 ---
 <style type="text/css">
