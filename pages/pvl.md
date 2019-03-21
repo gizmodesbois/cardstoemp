@@ -10,7 +10,7 @@ navtitle: Pvl
     .pvl {
         font-family: 'Bungee Inline', cursive;
         }
-        h1 {
+        .rainbow {
             background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -28,4 +28,5 @@ navtitle: Pvl
     </div><div style="width:100%;height:0;padding-bottom:77%;position:relative;">
     <iframe src="https://giphy.com/embed/l46Ck0D7a9MkHyUqQ" width="100%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
     <div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/l4FGqJMSZwmYDu0TK" width="100%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+    <h1 style="text-align:right;">Bisou! (ton vieux oheytois préféré)</h1>
 </section>
