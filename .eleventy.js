@@ -6,6 +6,7 @@ module.exports = (eleventyConfig) => {
       "ejs",
       "css",
       "svg",
+      "gif",
       "png",
       "mustache",
     ],
