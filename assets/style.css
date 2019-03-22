@@ -30,15 +30,23 @@ html {
   height: 768px;
   position: relative;
 }
+
 .birthday__iframe {
-  overflow: scroll;
   background: white;
   position: absolute;
   top:111px;
   left: 4px;
   width: 874px;
   height: 630px;
+  overflow: hidden;
 }
+
+@media only screen and (min-width: 640px) {
+  .birthday__iframe {
+    overflow: auto;
+  }
+}
+
 .thylo{
   width:100vw;
   height:100vh;
